@@ -1,0 +1,7 @@
+{
+  "name": "OneHTML Studio",
+  "description": "极简一体化HTML编辑器，支持单窗口代码编写、实时双向图片与代码定位、一键格式化、多标签管理与本地文件读写",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
